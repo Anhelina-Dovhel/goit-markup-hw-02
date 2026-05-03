@@ -1,0 +1,8 @@
+#hero {
+  background-color: #2e2f42;
+}
+#hero button {
+  background-color: #4d5ae5;
+  color: #ffffff;
+  cursor: pointer;
+}

@@ -12,6 +12,18 @@ a {
   text-decoration: none;
   color: inherit;
 }
+
+.main-title {
+  font-weight: 700;
+  font-size: 56px;
+
+  /* line-height: 60px; */
+  line-height: 1.07143;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #ffffff;
+}
+
 .section-title {
   font-weight: 700;
   font-size: 36px;
@@ -21,4 +33,7 @@ a {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+}
+.color-accent {
+  color: #4d5ae5;
 }
